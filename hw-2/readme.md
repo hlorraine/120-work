@@ -19,4 +19,6 @@ When first doing this was frusterated and couldnt find anything.
 
   Inline code, like directory names can be done with backticks (i.e. `hw-2/`)
 
-  If I want something to be **bold** i use two astricks. 
+  If I want something to be **bold** i use two astricks.
+
+  ![screenshot](Hw_2-screenshotForCoding.png) 
