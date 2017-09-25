@@ -2,10 +2,10 @@ Hannah Wheeler 51
 
 # HW-2 Response
 
-When first doing this was **frustrated** and couldnt find anything. and that was super frusterating.
-I then found a few things and **slowly** starting putting peices together. But
+When I was first doing this was **frustrated** and couldnt find anything. and that was super annoying. I hoenstly wanted to throw my computer out the window.
+BUT then I found a few things and **slowly** starting putting peices together. But
 I still kept hitting walls and couldn't move forward which just made me more frustrated.
-But then I went into see the proffessor and he made sense of a lot of it and So then I was able to move forward. Yay me.
+Then I went into see the proffessor and he made sense of a lot of it and So then I was able to move forward. Yay me.
 
 I then learned how to do a list like this
 
