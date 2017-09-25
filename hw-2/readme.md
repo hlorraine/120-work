@@ -2,7 +2,10 @@ Hannah Wheeler 51
 
 # HW-2 Response
 
-When first doing this was frusterated and couldnt find anything.
+When first doing this was frusterated and couldnt find anything. and that was super frusterating.
+I then found a few things and slowly starting pooting peices together. But I still kept hitting walls and couldn't move forward which just made me more frustrated.
+But then I went into see the proffessor and he made sense of a lot of it and So then I was able to move forward. Yay me.
+I then learned how to do a list like this
 
 - list 1\
 - list 2
@@ -21,4 +24,4 @@ When first doing this was frusterated and couldnt find anything.
 
   If I want something to be **bold** i use two astricks.
 
-  ![screenshot](Hw_2-screenshotForCoding.png) 
+  ![screenshot](Hw_2-screenshotForCoding.png)
