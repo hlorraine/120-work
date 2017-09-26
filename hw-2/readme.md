@@ -2,18 +2,16 @@ Hannah Wheeler 51
 
 # HW-2 Response
 
-When I was first doing this was **frustrated** and couldnt find anything. and that was super annoying. I hoenstly wanted to throw my computer out the window.
-BUT then I found a few things and **slowly** starting putting peices together. But
-I still kept hitting walls and couldn't move forward which just made me more frustrated.
-Then I went into see the proffessor and he made sense of a lot of it and So then I was able to move forward. Yay me.
+During this past week, I learned how to do basic tasks in my command-line interface, PowerShell.When I was first doing this was **frustrated** and couldnt find anything. and that was super annoying. I honestly wanted to throw my computer out the window. I spent a lot of time in trying to just find what I was supposed to be doing and do it. That was a lot of googling and messing with Atom and the command-line.
 
-I then learned how to do a list like this
+But then I found a few things and **slowly** starting putting the peices together. I set up the various programs--GitHub Desktop, Atom. But,
+I still kept hitting walls and couldn't move forward, which just made me more frustrated.
+Then I went into see the proffessor and he made sense of a lot of how everything works together and then I was able to move forward. Yay me.
+
+I learned how to do a list like this
 
 - list 1
 - list 2
-
-And then one like this
-
 1. one
 2. two
 3. three
@@ -22,10 +20,13 @@ And then one like this
     - 2 A
     - 2 B
 
+I learned how to title my documents within the command line and use that to navigate the folders.
 
   Inline code, like directory names can be done with backticks (i.e. `hw-2/`)
 
-  If I want something to be **bold** I use two astricks.
+I also learned how to do some of the more basic coding.
+
+  Such as if I want something to be **bold** I use two astricks.
 
 And then I learned how to do a screenshot and that was great.
 
