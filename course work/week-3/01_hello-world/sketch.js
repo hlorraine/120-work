@@ -1,3 +1,6 @@
 function setup(){
-    text("Hello World!", 0, 10);
+    text("Hello Michael!", 0, 10);
+}
+function setup(){
+    ellipse(20, 20, 30, 30);
 }
