@@ -1,10 +1,11 @@
 
 function setup(){
-    ellipse(40, 50, 30, 30);
+    createCanvas(600, 400);
+  }
 
-    function setup() {
-  createCanvas(600, 400);
+function draw() {
   background(153);
   background('#fae')
-  line(0, 0, width, height);
+  text("Hello World!", 60, 30);
+  // line(0, 0, width, height);
 }
